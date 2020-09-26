@@ -1,0 +1,20 @@
+---
+title: 'Project Milestone #2'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The first project I will analyze is Suruchi Ramanujan's project titled "Opioid Trends across
+the United States." It is clear that her data is very well organized and her plots are easy to 
+interpret and understand -- especially the heat map that indicates the density of opioid treatment
+centers in the United States on a state-by-state basis. I also love that she included a sliding bar
+with the heat maps so that one can easily adjust the year they are looking at. One slight con that I
+would mention is that the values on the y-axis in the first graph titled "Comparing Deaths from Opioid Overdose to Deaths from the Leading Causes of Death in America" goes by intervals of 250,000,
+and because the number of opoid overdose deaths is comparatively low, it is difficult to know just from looking at the graph how mnay opoid overdose deaths were occurring in each year. Otherwise,
+I absolutely loved how she organized her data to highlight how the problem has worsened significantly over the last 20 years.
+
+The second project I will analyze is Josh Matthew's project titled "NBA All Star Game: Does Player Popularity Impact Performance?" I very much enjoyed the ease with which I could search players and they would immediately appear in the bar graph, which even allowed me to compare the popularity of 
+multiple players at once. I looked at Lebron James, Kobe Bryant, Carmelo Anthony and Chris Paul side-by-side and there were quite a few interesting patterns I noticed, such as when Lebron's popularity overtook Kobe's when he returned to Cleveland from Miami. I also appreciated the regressions that Josh performed, which provided a confidence interval that indicated the range of point total increases that occurred with each popularity point. I do, however, think that the methods used to create those graphs could have been better explained, and maybe there could have been some sort of anaylsis of the data in words that would explain the graphs in layman's terms.
